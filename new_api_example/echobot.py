@@ -57,4 +57,4 @@ def echo(bot):
 
 
 if __name__ == '__main__':
-    main()
+    main(1560607533)
